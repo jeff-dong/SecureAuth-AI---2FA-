@@ -1,0 +1,5 @@
+{
+  "name": "SecureAuth AI - 2FA 验证",
+  "description": "一个现代化的两步验证(2FA)代码生成器，集成 Google Gemini AI 提供账户安全建议。支持 TOTP 标准 (Google Authenticator)。",
+  "requestFramePermissions": []
+}
